@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>830591336644-9p2p3e9ih133crrnlegtfdo5qa82lgik.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.830591336644-9p2p3e9ih133crrnlegtfdo5qa82lgik</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6ORRI7fyIqp6ykOYbVNXzCqm2hlMr1dc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>830591336644</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.shiftFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>shift-flutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shift-flutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:830591336644:ios:5c494afbbc515aeb514991</string>
+	<key>DATABASE_URL</key>
+	<string>https://shift-flutter.firebaseio.com</string>
+</dict>
+</plist>
